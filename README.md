@@ -1,0 +1,2 @@
+# codeship
+codeship-parallel-ci
